@@ -156,6 +156,7 @@
 		AD3B10411B1C0356009FBC21 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0710;
 				LastUpgradeCheck = 0630;
 				ORGANIZATIONNAME = LiquidGroup;
 				TargetAttributes = {
@@ -409,6 +410,7 @@
 				AD3B106A1B1C0356009FBC21 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		AD3B106B1B1C0356009FBC21 /* Build configuration list for PBXNativeTarget "Stop WatchTests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +419,7 @@
 				AD3B106D1B1C0356009FBC21 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
